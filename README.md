@@ -33,4 +33,4 @@
 ### Stats
 ![Statistics](https://github-readme-stats.vercel.app//api?username=syalomclubby&show_icons=true&count_private=true&hide_title=true&bg_color=100,0e1e45,000000&title_color=6c8fd9&text_color=68f5fc)
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=syalomclubby&theme=dark&background=0e1e45)](https://git.io/streak-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=itsZed0&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=syalomclubby&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
