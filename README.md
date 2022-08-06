@@ -5,8 +5,9 @@
 
 [![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white
 )](https://github.com/syalomclubby) [![Discord](https://img.shields.io/badge/Discord-7289D9?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/invite/v58xB2unpE) [![Whatsapp](https://img.shields.io/badge/Whatsapp-20C65A?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/+6283151431158)
-
+<p align="center">
 <img src="https://komarev.com/ghpvc/?username=your-github-username&style=flat-square&color=blue" alt=""/>
+</p>
 <p align="center">
   hey there
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
