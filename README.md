@@ -1,4 +1,11 @@
 # About Me
+<body>
+    <link href='https://fonts.googleapis.com/css?family=Josefin Sans' rel='stylesheet'>
+<style>
+body {
+    font-family: 'Josefin Sans';font-size: 22px;
+}
+</style>
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
@@ -31,6 +38,13 @@
 -----------
 
 ### Stats
+<body>
+    <link href='https://fonts.googleapis.com/css?family=Josefin Sans' rel='stylesheet'>
+<style>
+body {
+    font-family: 'Josefin Sans';font-size: 22px;
+}
+</style>
 ![Statistics](https://github-readme-stats.vercel.app//api?username=syalomclubby&show_icons=true&count_private=true&hide_title=true&bg_color=100,0e1e45,000000&title_color=6c8fd9&text_color=68f5fc)
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=syalomclubby&theme=dark&background=0e1e45)](https://git.io/streak-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=syalomclubby&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
