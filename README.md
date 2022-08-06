@@ -1,10 +1,15 @@
-﻿# belajar-github
+﻿# About Me
 -----------
 - 🖥 Belajar
 - 🔌 Server
 - 🎹 Music
 - 🔧 Server
 - ⛲ Community
+- 📓 Developer
+- 📭 Website
+- 🎮 Gamers
+- 📦 Renderer
+- 🎥 Editor
 -----------
 
 # Contact me on
