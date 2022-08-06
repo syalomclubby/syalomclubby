@@ -1,11 +1,7 @@
 # About Me
 <body>
     <link href='https://fonts.googleapis.com/css?family=Josefin Sans' rel='stylesheet'>
-<style>
-body {
-    font-family: 'Josefin Sans';font-size: 22px;
-}
-</style>
+
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
