@@ -11,7 +11,6 @@
 <a href="https://discord.com/invite/v58xB2unpE"><img src="https://img.shields.io/badge/Discord-7289D9?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"></a>
 <a href="https://wa.me/+6283151431158"><img src="https://img.shields.io/badge/Whatsapp-20C65A?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"></a>
 <a href="https://instagram.com/syalom_kunz"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
-<a href="https://account.xbox.com/en-us/Profile?xr=mebarnav&rtc=1&refresh=1"><img src="https://img.shields.io/badge/Xbox-55c94b?style=for-the-badge&logo=xbox&logoColor=white" alt="Xbox"></a>
 </p></span>
 
 <span style="font-family:'Josefin Sans';"><p align="center">
