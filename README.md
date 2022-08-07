@@ -12,13 +12,14 @@
 <a href="https://wa.me/+6283151431158"><img src="https://img.shields.io/badge/Whatsapp-20C65A?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"></a>
 </p></span>
 
-<p align="center">
+<span style="font-family:'Josefin Sans';"><p align="center">
 <img src="https://komarev.com/ghpvc/?username=syalomclubby&style=flat-square&color=blue" alt=""/>
-</p>
-<p align="center">
+</p></span>
+<span style="font-family:'Josefin Sans';"><p align="center">
   Hello World
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-</p>
+</p></span>
+<span style="font-family:'Josefin Sans';">
 
 -----------
 - 🖥 Belajar
@@ -33,6 +34,7 @@
 - 🎥 Editor
 -----------
 
+</span>
 </body>
 
 ### Stats
