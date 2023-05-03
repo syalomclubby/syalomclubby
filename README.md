@@ -4,7 +4,6 @@
 
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
-  <img width="100px" src="https://res.cloudinary.com/anuraghazra/image/upload/v1594908242/logo_ccswme.svg" alt="GitHub Readme Stats" />
 </div>
 
 <span style="font-family:'Josefin Sans';"><p align="center">
@@ -15,9 +14,11 @@
 </p></span>
 
 <span style="font-family:'Josefin Sans';"><p align="center">
-<img src="https://komarev.com/ghpvc/?username=syalomclubby&style=flat-square&color=blue" alt=""/>
-    <img alt="Tests Passing" src="https://github.com/anuraghazra/github-readme-stats/workflows/Test/badge.svg" />
+    <img src="https://komarev.com/ghpvc/?username=syalomclubby&style=flat-square&color=blue" alt=""/>
 </p></span>
+<span style="font-family:'Josefin Sans';"><p align="center">
+    <img src="https://img.shields.io/badge/Supported%20by-VSCode%20Power%20User%20%E2%86%92-gray.svg?colorA=655BE1&colorB=4F44D6&style=for-the-badge"/>
+</span>
 <span style="font-family:'Josefin Sans';"><p align="center">
   Hello World
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
