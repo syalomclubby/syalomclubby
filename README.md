@@ -10,12 +10,13 @@
 <span style="font-family:'Josefin Sans';"><p align="center">
 <a href="https://github.com/syalomclubby"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="Github"></a>
 <a href="https://discord.com/invite/v58xB2unpE"><img src="https://img.shields.io/badge/Discord-7289D9?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"></a>
-<a href="https://wa.me/+6283151431158"><img src="https://img.shields.io/badge/Whatsapp-20C65A?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"></a>
+<a href=""><img src="https://img.shields.io/badge/Whatsapp-20C65A?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"></a>
 <a href="https://instagram.com/syalom_kunz"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
 </p></span>
 
 <span style="font-family:'Josefin Sans';"><p align="center">
 <img src="https://komarev.com/ghpvc/?username=syalomclubby&style=flat-square&color=blue" alt=""/>
+    <img alt="Tests Passing" src="https://github.com/anuraghazra/github-readme-stats/workflows/Test/badge.svg" />
 </p></span>
 <span style="font-family:'Josefin Sans';"><p align="center">
   Hello World
