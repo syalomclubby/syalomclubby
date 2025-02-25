@@ -1,7 +1,5 @@
 <!-- BANNER -->
-<p align="center">
-  <img src="https://i.imgur.com/OuZgYbU.gif" width="100%" height="150px" alt="Pixel Art Banner"/>
-</p>
+![Alt Text](https://raw.githubusercontent.com/username/repo/main/path-to-image.jpg)
 
 <!-- TYPING ANIMATION -->
 <p align="center">
