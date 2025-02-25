@@ -1,5 +1,5 @@
 <!-- BANNER -->
-![Alt Text](https://raw.githubusercontent.com/username/repo/main/path-to-image.jpg)
+![Banner](https://source.unsplash.com/1600x400/?technology,coding,abstract)
 
 <!-- TYPING ANIMATION -->
 <p align="center">
