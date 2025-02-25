@@ -1,5 +1,4 @@
 <!-- BANNER -->
-![Banner](https://picsum.photos/1600/400)
 
 <!-- TYPING ANIMATION -->
 <p align="center">
