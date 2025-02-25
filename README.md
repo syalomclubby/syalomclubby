@@ -1,5 +1,5 @@
 <!-- BANNER -->
-![Banner](https://source.unsplash.com/1600x400/?technology,coding,abstract)
+![Banner](https://picsum.photos/1600/400)
 
 <!-- TYPING ANIMATION -->
 <p align="center">
