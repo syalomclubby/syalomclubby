@@ -1,6 +1,6 @@
 <!-- BANNER -->
 <p align="center">
-  <img src="https://media.giphy.com/media/3otPorWLQJq5GmHRtu/giphy.gif" width="100%" alt="Banner"/>
+  <img src="https://i.imgur.com/OuZgYbU.gif" width="100%" height="150px" alt="Pixel Art Banner"/>
 </p>
 
 <!-- TYPING ANIMATION -->
