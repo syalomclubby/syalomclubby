@@ -77,6 +77,3 @@
 I'm open to collaboration, freelance work, and exciting tech ideas. Feel free to reach out!
 
 ---
-```
-
----
