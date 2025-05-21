@@ -40,9 +40,9 @@
 
 ## 🧩 **Featured Projects**
 
-### 🚀 [Syfolio - Neon Portfolio Website](https://syfolio.vercel.app)
+### 🚀 [Syfolio - Modern Responsive Portofolio](https://syalom.vercel.app)
 <p>
-  <img src="https://raw.githubusercontent.com/syalomclubby/syfolio/main/preview.jpg" width="100%" alt="Syfolio Preview" />
+  <img src="https://raw.githubusercontent.com/syalomclubby/syalomclubby/main/web1.png" width="100%" alt="Syfolio Preview" />
 </p>
 
 - ⚡ Stylish portfolio using **glassmorphism** and **neon blue highlights**  
@@ -51,9 +51,9 @@
 
 ---
 
-### 🎮 [Game Catalog Web App](https://gamecatalog.vercel.app)
+### 🎮 [Plarray - Game Catalog Web App](https://gamecatalog.vercel.app)
 <p>
-  <img src="https://raw.githubusercontent.com/syalomclubby/game-catalog/main/preview.jpg" width="100%" alt="Game Catalog Preview" />
+  <img src="https://raw.githubusercontent.com/syalomclubby/syalomclubby/main/web2.png" width="100%" alt="Game Catalog Preview" />
 </p>
 
 - 🧩 Dynamic game showcase with filter and category system  
@@ -62,9 +62,9 @@
 
 ---
 
-### 🎨 [Syalom UI Kit](https://syalom-uikit.vercel.app)
+### 🎨 [Akharia - Demo eCommerce Website](https://syalomclubby.github.io/tesakharia/)
 <p>
-  <img src="https://raw.githubusercontent.com/syalomclubby/syalom-uikit/main/preview.jpg" width="100%" alt="UI Kit Preview" />
+  <img src="https://raw.githubusercontent.com/syalomclubby/syalomclubby/main/web3.png" width="100%" alt="eCommerce Preview" />
 </p>
 
 - 🧱 Custom-built component library using **Tailwind CSS**  
