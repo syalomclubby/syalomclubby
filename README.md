@@ -73,7 +73,7 @@
 
 <p align="center">
   <a href="https://github.com/syalomclubby/tesakharia" target="_blank">
-    <img src="https://img.shields.io/badge/View%20Repo-%2312100E?style=for-the-badge&logo=github&logoColor=white" alt="View Repo on GitHub">
+    <img src="https://img.shields.io/badge/View%20Repo-007BFF?style=for-the-badge&logo=github&logoColor=white" alt="View Repo on GitHub">
   </a>
 </p>
 
