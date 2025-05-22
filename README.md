@@ -71,10 +71,9 @@
 - 🎨 Includes cards, buttons, forms, modals, and navbars  
 - ✨ Lightweight, minimal, and fully customizable  
 
-<p align="center">
+<p align="left">
   <a href="https://github.com/syalomclubby/tesakharia" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=🔗&message=View%20Source%20on%20GitHub&color=4facfe&style=for-the-badge&logo=github&logoColor=white"alt="View Source on GitHub"
-    />
+    <img src="https://img.shields.io/badge/View%20Repo-%2312100E?style=for-the-badge&logo=github&logoColor=white" alt="View Repo on GitHub">
   </a>
 </p>
 
