@@ -2,7 +2,7 @@
 ## 🌟 **Welcome to My Profile!**
 <!-- TYPING ANIMATION -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=6C8FD9&center=true&vCenter=true&width=700&lines=Welcome+to+SyalomClubby's+World!+🌍;Developer+|+Gamer+|+Music+Enthusiast+🎵;Crafting+Code%2C+Tuning+Sounds%2C+Managing+Servers+🔥" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=6C8FD9&center=true&vCenter=true&width=700&lines=Welcome+to+FrontSyl's+World!+🌍;Developer+|+Gamer+|+Music+Enthusiast+🎵;Crafting+Code%2C+Tuning+Sounds%2C+Managing+Servers+🔥" alt="Typing SVG"/>
 </p>
 
 <!-- SOCIAL MEDIA BADGES -->
