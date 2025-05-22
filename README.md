@@ -72,23 +72,16 @@
 - ✨ Lightweight, minimal, and fully customizable  
 
 <p align="center">
-  <a href="https://github.com/syalomclubby/tesakharia" target="_blank"
-     style="
-       display: inline-block;
-       background: linear-gradient(135deg, #4facfe 0%, #00f2fe 100%);
-       color: #ffffff;
-       padding: 0.75em 1.5em;
-       font-size: 1rem;
-       font-weight: 600;
-       text-decoration: none;
-       border-radius: 0.5em;
-       box-shadow: 0 4px 12px rgba(0, 0, 0, 0.15);
-       transition: transform 0.2s ease, box-shadow 0.2s ease;
-     "
-     onmouseover="this.style.transform='translateY(-2px)'; this.style.boxShadow='0 6px 16px rgba(0, 0, 0, 0.2)';"
-     onmouseout="this.style.transform='translateY(0)'; this.style.boxShadow='0 4px 12px rgba(0, 0, 0, 0.15)';"
-  >
-    🔗 View Source on GitHub
+  <a href="https://github.com/syalomclubby/tesakharia" target="_blank">
+    <img
+      src="https://img.shields.io/static/v1?
+        label=🔗&message=View%20Source%20on%20GitHub&
+        color=4facfe&
+        style=for-the-badge&
+        logo=github&
+        logoColor=white"
+      alt="View Source on GitHub"
+    />
   </a>
 </p>
 
