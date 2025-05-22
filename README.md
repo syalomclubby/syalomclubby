@@ -64,7 +64,7 @@
 
 ### 🎨 [Akharia - Demo eCommerce Website](https://syalomclubby.github.io/tesakharia/)
 <p>
-  <img src="https://raw.githubusercontent.com/syalomclubby/syalomclubby/main/web2.png" width="100%" alt="eCommerce Preview" />
+  <img href="https://github.com/syalomclubby/tesakharia" src="https://raw.githubusercontent.com/syalomclubby/syalomclubby/main/web2.png" width="100%" alt="eCommerce Preview" />
 </p>
 
 - 🧱 Custom-built component library using **Tailwind CSS**  
