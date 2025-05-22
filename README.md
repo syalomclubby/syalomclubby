@@ -51,7 +51,7 @@
 
 ---
 
-### 🎮 [Plarray - Game Catalog Web App](https://gamecatalog.vercel.app)
+### 🎮 [Plarray - Game Catalog Web App](https://plarray.wuaze.com/)
 <p>
   <img src="https://raw.githubusercontent.com/syalomclubby/syalomclubby/main/web2.png" width="100%" alt="Game Catalog Preview" />
 </p>
