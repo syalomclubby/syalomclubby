@@ -64,12 +64,18 @@
 
 ### 🎨 [Akharia - Demo eCommerce Website](https://syalomclubby.github.io/tesakharia/)
 <p>
-  <img href="https://github.com/syalomclubby/tesakharia" src="https://raw.githubusercontent.com/syalomclubby/syalomclubby/main/web2.png" width="100%" alt="eCommerce Preview" />
+  <img src="https://raw.githubusercontent.com/syalomclubby/syalomclubby/main/web2.png" width="100%" alt="eCommerce Preview" />
 </p>
 
 - 🧱 Custom-built component library using **Tailwind CSS**  
 - 🎨 Includes cards, buttons, forms, modals, and navbars  
-- ✨ Lightweight, minimal, and fully customizable
+- ✨ Lightweight, minimal, and fully customizable  
+
+<p align="center">
+  <a href="https://github.com/syalomclubby/tesakharia" target="_blank">
+    <img src="https://img.shields.io/badge/View%20Repo-%2312100E?style=for-the-badge&logo=github&logoColor=white" alt="View Repo on GitHub">
+  </a>
+</p>
 
 ---
 
