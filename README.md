@@ -40,7 +40,7 @@
 
 # 🧩 Sylbiz – Clean Business Website Template
 
-### 🚀 Live Demo: [sylbiz.vercel.app](https://sylbiz.vercel.app)
+### 🚀 Live Demo: [sylbiz-porto.vercel.app](https://sylbiz-porto.vercel.app)
 
 ![Sylbiz Preview](sylbiz-preview.jpg)
 
@@ -100,4 +100,5 @@ Includes full source code, lifetime access, and commercial usage rights.
 ## 📫 **Let’s Connect!**
 I'm open to collaboration, freelance work, and exciting tech ideas. Feel free to reach out!
 > Email : itzclubbykunz@gmail.com
+> My real email address has been included in the “Get in Touch” section of the deployed site.  
 
