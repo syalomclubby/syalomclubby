@@ -99,4 +99,5 @@ Includes full source code, lifetime access, and commercial usage rights.
 
 ## 📫 **Let’s Connect!**
 I'm open to collaboration, freelance work, and exciting tech ideas. Feel free to reach out!
+> Email : itzclubbykunz@gmail.com
 
