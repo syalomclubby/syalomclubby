@@ -52,7 +52,7 @@
 
 ## ✨ Features
 
-- ✅ Built with **Tailwind CSS v3+**
+- ✅ Built with **Tailwind CSS v4+**
 - 🌗 Fully responsive with **dark mode toggle**
 - 📱 Mobile-first and cross-browser compatible
 - 📰 Includes static **blog section**
