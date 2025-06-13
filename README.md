@@ -38,46 +38,77 @@
 
 ---
 
-## 🧩 **Featured Projects**
+# 🧩 Sylbiz – Clean Business Website Template
 
-### 🚀 [Syfolio - Modern Responsive Portofolio](https://syalom.vercel.app)
-<p>
-  <img src="https://raw.githubusercontent.com/syalomclubby/syalomclubby/main/web1.png" width="100%" alt="Syfolio Preview" />
-</p>
+### 🚀 Live Demo: [sylbiz.vercel.app](https://sylbiz.vercel.app)
 
-- ⚡ Stylish portfolio using **glassmorphism** and **neon blue highlights**  
-- 🎯 Built with **HTML5, Tailwind CSS, Vanilla JS**  
-- 🔒 Code is private for licensing. Demo is hosted on Vercel.
+![Sylbiz Preview](https://your-screenshot-link.com/sylbiz-cover.png)
 
----
-
-### 🎮 [Plarray - Game Catalog Web App](https://plarray.wuaze.com/)
-<p>
-  <img src="https://raw.githubusercontent.com/syalomclubby/syalomclubby/main/web3.png" width="100%" alt="Game Catalog Preview" />
-</p>
-
-- 🧩 Dynamic game showcase with filter and category system  
-- 🔧 Built with **PHP + MySQL + Tailwind CSS**  
-- ✅ Fully responsive, mobile-first design
+> Sylbiz is currently my best and most complete front-end project.
+> It reflects my current design principles, code structure, and attention to responsive user interface built with Tailwind CSS.
+> A modern and responsive business website UI built with **Tailwind CSS**, designed for startups, agencies, and corporate teams seeking a polished online presence.
 
 ---
 
-### 🎨 [Akharia - Demo eCommerce Website](https://syalomclubby.github.io/tesakharia/)
-<p>
-  <img src="https://raw.githubusercontent.com/syalomclubby/syalomclubby/main/web2.png" width="100%" alt="eCommerce Preview" />
-</p>
+## ✨ Features
 
-- 🧱 Custom-built component library using **Tailwind CSS**  
-- 🎨 Includes cards, buttons, forms, modals, and navbars  
-- ✨ Lightweight, minimal, and fully customizable  
-
-<p align="left">
-  <a href="https://github.com/syalomclubby/tesakharia" target="_blank">
-    <img src="https://img.shields.io/badge/View%20Repo-%2312100E?style=for-the-badge&logo=github&logoColor=white" alt="View Repo on GitHub">
-  </a>
-</p>
+- ✅ Built with **Tailwind CSS v3+**
+- 🌗 Fully responsive with **dark mode toggle**
+- 📱 Mobile-first and cross-browser compatible
+- 📰 Includes static **blog section**
+- 💼 Sections: Hero, About, Services, Pricing, Testimonials, FAQ
+- 🎯 Smooth scroll animations using **AOS**
+- 🧠 Clean semantic HTML structure
+- 💡 Custom cursor, scroll-to-top button, and dropdown nav
+- ⚙️ Easy to customize and extend
 
 ---
+
+## 📁 Folder Structure
+
+```
+/assets
+  /css         → Compiled Tailwind CSS
+  /js          → Vanilla JS interactions
+  /images      → Royalty-free image assets
+index.html     → Main HTML file
+blog.html      → Blog listing template
+```
+
+---
+
+## 🛠 Development
+
+To develop or customize with Tailwind CSS:
+
+```bash
+npm install
+npm run dev:css   # For development with live updates
+# When done:
+Ctrl + C
+npm run build:css # Minifies CSS for production
+```
+
+> No build tools required for basic editing. Just open `index.html` directly in your browser.
+
+---
+
+## 📌 Tech Stack
+
+- **HTML5**, **Tailwind CSS**, **Vanilla JavaScript**
+- AOS (Animate On Scroll)
+- Swiper.js (for testimonials)
+- Font Awesome (CDN icons)
+
+---
+
+## 🛒 Buy This Template
+
+You can purchase the full version of this template on:
+
+👉 [Codester – Sylbiz Template](https://www.codester.com/items/56015/sylbiz-multipurpose-business-template)
+
+Includes full source code, lifetime access, and commercial usage rights.
 
 ## 📫 **Let’s Connect!**
 I'm open to collaboration, freelance work, and exciting tech ideas. Feel free to reach out!
