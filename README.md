@@ -100,7 +100,3 @@ Includes full source code, lifetime access, and commercial usage rights.
 ## 📫 **Let’s Connect!**
 I'm open to collaboration, freelance work, and exciting tech ideas. Feel free to reach out!
 
-> **🔒 Note for Reviewers:**  
-> All featured projects are created and managed by **SyalomClubby**  
-> Email: itzclubbykunz@gmail.com (same email used in Creative Market submission)
-
