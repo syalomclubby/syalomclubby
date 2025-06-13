@@ -64,19 +64,6 @@
 
 ---
 
-## 📁 Folder Structure
-
-```
-/assets
-  /css         → Compiled Tailwind CSS
-  /js          → Vanilla JS interactions
-  /images      → Royalty-free image assets
-index.html     → Main HTML file
-blog.html      → Blog listing template
-```
-
----
-
 ## 🛠 Development
 
 To develop or customize with Tailwind CSS:
