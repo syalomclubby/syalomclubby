@@ -42,7 +42,7 @@
 
 ### 🚀 Live Demo: [sylbiz.vercel.app](https://sylbiz.vercel.app)
 
-![Sylbiz Preview](https://your-screenshot-link.com/sylbiz-cover.png)
+![Sylbiz Preview](sylbiz-preview.jpg)
 
 > Sylbiz is currently my best and most complete front-end project.
 > It reflects my current design principles, code structure, and attention to responsive user interface built with Tailwind CSS.
